@@ -17,8 +17,8 @@ example = {
   # Default message
 	'content': 'A config content message', 
   # True - send Embeds False - not send Embeds
-	'embedrule': True,                    
-	# here embeds for send. if you selected EMBEDRULE:FALSE you can leave it as it is or erase it to the brackets of the list
+	'embedrule': True,                   
+  # here embeds for send. if you selected EMBEDRULE:FALSE you can leave it as it is or erase it to the brackets of the list
   'embed': [{                            
   # place here Embed Image
 		'image': 'https://cdn.discordapp.com/attachments/702071656729935933/881273560033816637/1630182315220.jpg',            
